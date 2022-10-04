@@ -1,0 +1,28 @@
+/*Menu*/
+.menu{
+    background-color: #A6452D;
+}
+.textMenu{
+    color: #F5F5F5;
+}
+.login{
+    color: #F5F5F5;
+    background-color: #1CA679;
+    border-radius: 50px;
+    padding: 6px 20px;
+}
+ul{
+    text-align: center;
+}
+
+.about{
+    background-color: #F2785A;
+}
+.sobremi{
+    margin-top: 150px;
+    background-color: #1CA679;
+    color: #F5F5F5;
+}
+.sobremiinfo{
+    color: #F5F5F5;
+}
